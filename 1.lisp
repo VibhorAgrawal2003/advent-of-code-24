@@ -29,7 +29,7 @@
 
 
 ;; Reading input values into arrays created here, A & B
-(multiple-value-bind (A B) (read-file-into-arrays "1.txt")
+(multiple-value-bind (A B) (read-file-into-arrays "inputs/1.txt")
 
   ;; PART-1
   (sort A #'<)
