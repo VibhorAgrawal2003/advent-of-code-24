@@ -1,1 +1,0 @@
-do()mul(123,456)mul(12,23,45)mulmul(1,2)don't()mul(3,3)mul(3,4)do()mul()mul()mul(7,4)
